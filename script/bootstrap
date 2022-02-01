@@ -46,7 +46,7 @@ if [[ ! -d ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k ]]; then
 fi
 
 install_dotfiles () {
-  info 'installing dotfiles-example'
+  info 'installing dotfiles-devcontainer'
 
   local overwrite_all=false backup_all=false skip_all=false
 
