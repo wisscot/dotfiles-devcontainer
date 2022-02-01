@@ -1,2 +1,5 @@
-# dotfiles-devcontainer
-Dotfiles for VSCode devcontainer
+# Setup
+
+## How to install
+./script/bootstrap
+
