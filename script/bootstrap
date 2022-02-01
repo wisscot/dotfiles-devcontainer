@@ -57,6 +57,7 @@ install_dotfiles () {
   done
 }
 
+# Link dot files
 install_dotfiles
 
 
